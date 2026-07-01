@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0294/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0294/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在如意輪菩薩瑜伽法要
+  identifiers:
+    krp: KR6j0294
+    cbeta: T20n1087
+    cbeta_old_id: T20n1087
+    authorityid: CA0001260
+    json_key: T1087
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1087.xml
+    old_id: T20n1087
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0294_000-T.yaml, hash: 'sha256:7cf605e44a6738016f8ce0ea453ccaf9a09223255f18bafc73d22f1360daaaa1'}
+  - {seq: 1, filename: KR6j0294_001-T.yaml, hash: 'sha256:3ff3f2c6e1594ae780a65a1cda8b4416462b82aeab896f46f43525733371f687'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0294_000-T.markers.yaml, hash: 'sha256:1ff2283d12681ffbbf065ddf6c5173d127a22e539bc69fc1296eb5ab9bf71237'}
+  - {seq: 1, role: markers, filename: assets/KR6j0294_001-T.markers.yaml, hash: 'sha256:34c340b28fcf138f012c5d0494ba0467b58702a8c671df200cc3d0318f1d3b8a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0294_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3928
+  label: '觀自在如意輪菩薩瑜伽法要
+
+    一卷'
+  type: juan
+  level: 1
+hash: sha256:aaf3fc75c5f4f04d1b6b81034f83c9b3680aea5a1323fd6d7798a9e4d938a670
