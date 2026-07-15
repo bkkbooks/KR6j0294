@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0294/v1
 canonical_location: https://kanripo.org/bkk/KR6j0294/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀自在如意輪菩薩瑜伽法要
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0294_000.yaml, hash: 'sha256:7cf605e44a6738016f8ce0ea453ccaf9a09223255f18bafc73d22f1360daaaa1'}
-  - {seq: 1, filename: KR6j0294_001.yaml, hash: 'sha256:3ff3f2c6e1594ae780a65a1cda8b4416462b82aeab896f46f43525733371f687'}
+  - {seq: 1, filename: KR6j0294_001.yaml, hash: 'sha256:19ca3a84329399526099b774b00ec23ec4929fce3491d56142a14c3ca823453a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0294_000.markers.yaml, hash: 'sha256:e85306a62588d133786ccfb575d76900ba1b96b9031a933242b853e3bde3aa8e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0294_001.markers.yaml, hash: 'sha256:e9c7de70ffbd1d82078522522d85b638606dbdf830e4f8fde1de8cfbae8c55b6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0294_001.markers.yaml, hash: 'sha256:5166d540c316874018f404f05443fc86963acacbab0b1b35ea86ee8d906eccee'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     一卷'
   type: juan
   level: 1
-hash: sha256:26f67a7a1f3ec019ea7550ce7a3655a4875b7281e1caa8bcf76285f79b6b9fa6
+hash: sha256:b94325c5171e8d3a0bed3979321b79e0bbb82e90b56f618a89e6da4f3f4fe309
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
